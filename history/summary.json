@@ -4,19 +4,19 @@
     "url": "$FERRY_BOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ferry-bot",
-    "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "97.03%",
-    "uptimeWeek": "97.03%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
-    "time": 521,
-    "timeDay": 521,
-    "timeWeek": 521,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "status": "up",
+    "uptime": "96.57%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "96.57%",
+    "uptimeMonth": "96.57%",
+    "uptimeYear": "96.57%",
+    "time": 479,
+    "timeDay": 479,
+    "timeWeek": 479,
+    "timeMonth": 479,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2023-02-04": 31
+      "2023-02-04": 36
     }
   },
   {
