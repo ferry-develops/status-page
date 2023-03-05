@@ -21,6 +21,7 @@ status-website:
   theme: ocean
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/ferry-develops/status-page/master/assets/ferry-icon.svg
+  faviconSvg: https://raw.githubusercontent.com/ferry-develops/status-page/master/assets/ferry-icon.svg
   name: Ferry
   introTitle: "Ferry"
   introMessage: " "
