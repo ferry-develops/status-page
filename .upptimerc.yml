@@ -7,8 +7,6 @@ assignees:
   - ferry-watchdog
 
 sites:
-  - name: Ferry Bot
-    url: $FERRY_BOT
   - name: Site
     url: $SITE
   - name: Documentation
