@@ -4,10 +4,10 @@
     "url": "$SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 401,
@@ -16,6 +16,7 @@
     "timeMonth": 318,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2023-03-20": 1,
       "2023-03-16": 27
     }
   },
@@ -24,9 +25,9 @@
     "url": "$DOCUMENTATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 312,
     "timeMonth": 869,
     "timeYear": 883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-20": 0
+    }
   },
   {
     "name": "Database",
@@ -46,12 +49,12 @@
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 773,
     "timeDay": 1011,
     "timeWeek": 661,
-    "timeMonth": 841,
+    "timeMonth": 734,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2023-02-20": 5
