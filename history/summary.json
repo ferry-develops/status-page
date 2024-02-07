@@ -16,7 +16,7 @@
     "timeMonth": 735,
     "timeYear": 791,
     "dailyMinutesDown": {
-      "2024-02-07": 1244,
+      "2024-02-07": 1250,
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
@@ -93,7 +93,7 @@
     "url": "$DOCUMENTATION",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "92.31%",
     "uptimeWeek": "98.90%",
