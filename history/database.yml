@@ -1,7 +1,7 @@
 url: $PHISHING_DATABASE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-09T14:48:18.619Z
+status: up
+code: 200
+responseTime: 717
+lastUpdated: 2025-03-09T14:53:03.848Z
 startTime: 2023-02-04T00:26:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
