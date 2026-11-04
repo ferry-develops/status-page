@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site",
     "status": "down",
-    "uptime": "22.64%",
+    "uptime": "22.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-04": 277,
+      "2026-11-04": 1299,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "26.94%",
+    "uptime": "26.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-04": 277,
+      "2026-11-04": 1299,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
@@ -772,9 +772,9 @@
     "url": "$PHISHING_DATABASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.38%",
     "uptimeYear": "99.62%",
@@ -791,7 +791,8 @@
       "2026-10-07": 974,
       "2026-10-06": 39,
       "2026-10-22": 71,
-      "2026-10-21": 500
+      "2026-10-21": 500,
+      "2026-11-04": 0
     }
   }
 ]
