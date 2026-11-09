@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 261,
+      "2026-11-09": 537,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-09": 261,
+      "2026-11-09": 537,
       "2026-11-08": 1440,
       "2026-11-07": 1440,
       "2026-11-06": 1440,
@@ -772,17 +772,17 @@
     "url": "$PHISHING_DATABASE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "99.55%",
-    "time": 879,
-    "timeDay": 0,
-    "timeWeek": 4157,
-    "timeMonth": 1875,
-    "timeYear": 901,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "73.16%",
+    "uptimeWeek": "93.79%",
+    "uptimeMonth": "97.27%",
+    "uptimeYear": "99.50%",
+    "time": 886,
+    "timeDay": 4102,
+    "timeWeek": 4150,
+    "timeMonth": 1943,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2025-11-18": 166,
       "2025-12-01": 6,
@@ -794,7 +794,7 @@
       "2026-10-21": 500,
       "2026-11-05": 98,
       "2026-11-04": 141,
-      "2026-11-09": 110
+      "2026-11-09": 387
     }
   }
 ]
